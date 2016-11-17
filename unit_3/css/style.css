@@ -1,8 +1,10 @@
-/*body {
+body {
 	background-image: url("images/Yellow Parish(3).jpg");
-}*/
-
-.header h1 {
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 
+}
+h1 {
 	float: left;
 	color: #5D92B1;
 	text-align: left
