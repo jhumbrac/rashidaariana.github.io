@@ -5,14 +5,14 @@
 	background-attachment: scroll;
 	background-size: cover;
 }*/
-.navigation bar {
+#nav {
 	padding: 0px;
 	margin: 0px
 	text-align: center;
 	display: inline-block;
 	vertical-align: top;
 }
-h1 {
+#logo {
 	color: #5D92B1;
 	/*text-align: left
 	vertical-align: top;*/
