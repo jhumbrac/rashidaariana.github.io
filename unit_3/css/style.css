@@ -11,7 +11,7 @@ div {
 }
 #nav {
 	padding-left: 800px;
-	padding-bottom: 0px;
+	/*padding-bottom: 0px;*/
 	/*text-align: right;*/
 	display: inline-block;
 	/*vertical-align: top;*/
@@ -21,7 +21,7 @@ h1 {
 	text-align: left;
 	vertical-align: top;
 	display: inline-block;
-	padding-bottom: 0px;
+	/*padding-bottom: 0px;*/
 }
 li {
 	display: inline;
