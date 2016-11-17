@@ -1,7 +1,10 @@
 body {
 	background-image: url("images/Yellow Parish(3).gif");
+	min-height: 500px;
 	background-repeat: no-repeat;
 	background-position: center;
+	background-attachment: scroll;
+	background-size: cover;
 }
 h1 {
 	float: left;
