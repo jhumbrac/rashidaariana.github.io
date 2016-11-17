@@ -17,6 +17,9 @@ h1 {
 	vertical-align: top;
 	display: inline-block;
 }
+li {
+	display: inline;
+}
 /*#first {
 	text-align: center;
 	vertical-align: top;
