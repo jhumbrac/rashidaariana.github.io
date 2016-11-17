@@ -19,9 +19,9 @@ h1 {
 }
 li {
 	display: inline;
-	padding-top: 10px;
+	padding-top: 55px;
 	padding-left: 50px;
-	text-align: right;
+	/*text-align: right;*/
 }
 /*#first {
 	text-align: center;
