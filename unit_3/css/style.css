@@ -5,12 +5,13 @@
 	background-attachment: scroll;
 	background-size: cover;
 }*/
-div {
+div #header {
 	width: 960px
-	height: 100px;
+	height: 80px;
 }
 #nav {
 	padding-left: 800px;
+	padding-top: 50px;
 	/*padding-bottom: 0px;*/
 	/*text-align: right;*/
 	display: inline-block;
@@ -23,10 +24,10 @@ h1 {
 	display: inline-block;
 	/*padding-bottom: 0px;*/
 }
-li {
+/*li {
 	display: inline;
 	padding-top: 50px;
-	padding-left: 50px;
+	padding-left: 50px;*/
 	/*padding-bottom: 0px;*/
 	/*text-align: right;*/
 }
