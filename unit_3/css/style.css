@@ -2,7 +2,8 @@
 	background-image: url("images/Yellow Parish(3).jpg");
 }*/
 
-h1 {
+.header h1 {
+	float: left;
 	color: #5D92B1;
 	text-align: left
 	vertical-align: top;
