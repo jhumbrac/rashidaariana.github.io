@@ -20,6 +20,7 @@ h1 {
 li {
 	display: inline;
 	padding-top: 10px;
+	padding-left: 50px;
 	text-align: right;
 }
 /*#first {
