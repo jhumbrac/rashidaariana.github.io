@@ -7,15 +7,15 @@
 }*/
 #nav {
 	padding: 0px;
-	margin: 0px
-	text-align: center;
+	text-align: right;
 	display: inline-block;
 	vertical-align: top;
 }
-#logo {
+h1 {
 	color: #5D92B1;
-	/*text-align: left
-	vertical-align: top;*/
+	text-align: left
+	vertical-align: top;
+	display: inline-block;
 }
 /*#first {
 	text-align: center;
