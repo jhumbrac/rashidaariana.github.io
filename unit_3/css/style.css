@@ -6,10 +6,10 @@
 	background-size: cover;
 }*/
 #nav {
-	padding: 0px;
-	text-align: right;
+	padding-left: 80px;
+	/*text-align: right;*/
 	display: inline-block;
-	vertical-align: top;
+	/*vertical-align: top;*/
 }
 h1 {
 	color: #5D92B1;
