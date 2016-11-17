@@ -27,21 +27,9 @@ li {
 	display: inline;
 	padding-top: 30px;
 	padding-left: 50px;
-	padding-bottom: 0px;
+	/*padding-bottom: 0px;*/
 	/*text-align: right;*/
 }
-/*#first {
-	text-align: center;
-	vertical-align: top;
-	padding-bottom: 10px
-}
-#second {
-	vertical-align: top;
-}
-#third {
-	text-align: right;
-	vertical-align: top;
-}*/
 h3 {
 	color: #000000;
 	text-align: right;
