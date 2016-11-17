@@ -29,6 +29,7 @@ h3 {
 }
 .slogan {
 	font-style: italic;
+	font-size: 16px;
 }
 p { 
 	color: #808080; 
@@ -36,5 +37,8 @@ p {
 	text-align: left;
 }
 .survey {
-	font-size: 20px
+	font-size: 20px;
+}
+ul { 
+	list-style-type: none;
 }
