@@ -15,7 +15,7 @@ ul #nav {
 	/*padding-bottom: 0px;*/
 	text-align: right;
 	display: inline-block;
-	/*vertical-align: top;*/
+	vertical-align: top;
 }
 h1 {
 	color: #5D92B1;
@@ -29,6 +29,7 @@ li {
 	padding-top: 60px;
 	padding-left: 50px;
 	text-align: right;
+	vertical-align: top;
 }
 hr {
 	padding: 0px
