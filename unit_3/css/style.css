@@ -5,12 +5,21 @@ body {
 	background-attachment: scroll;
 	background-size: cover;
 }
-h1 {
+header {
+	border-bottom: 1px solid #000;
+}
+header > h1 {
+	display: inline-block;
+}
+header span { 
+	margin-left: 100px;
+}
+/*h1 {
 	color: #5D92B1;
 	text-align: left
 	vertical-align: top;
-}
-#first {
+}*/
+/*#first {
 	text-align: center;
 	vertical-align: top;
 	padding-bottom: 10px
@@ -21,7 +30,7 @@ h1 {
 #third {
 	text-align: right;
 	vertical-align: top;
-}
+}*/
 h3 {
 	color: #000000;
 	text-align: right;
