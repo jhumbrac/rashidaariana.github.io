@@ -12,6 +12,12 @@ h1 {
 	text-align: left
 	vertical-align: top;
 }
+#first {
+	text-align: center;
+}
+#second {
+	text-align: right;
+}
 h3 {
 	color: #000000;
 	text-align: right;
