@@ -1,6 +1,5 @@
 body {
 	background-image: url("images/Yellow Parish(3).gif");
-	min-height: 100px;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-attachment: scroll;
@@ -14,6 +13,7 @@ h1 {
 #first {
 	text-align: center;
 	vertical-align: top;
+	padding-top: 5px
 }
 #second {
 	vertical-align: top;
@@ -34,4 +34,7 @@ p {
 	color: #808080; 
 	font-weight: normal;
 	text-align: left;
+}
+.survey {
+	text-si
 }
