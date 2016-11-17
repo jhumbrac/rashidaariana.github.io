@@ -19,6 +19,7 @@ h1 {
 }
 li {
 	display: inline;
+	float: right;
 }
 /*#first {
 	text-align: center;
