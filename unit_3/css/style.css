@@ -30,6 +30,9 @@ li {
 	/*padding-bottom: 0px;*/
 	/*text-align: right;*/
 }
+hr {
+	padding: 0px
+}
 h3 {
 	color: #000000;
 	text-align: right;
