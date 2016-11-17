@@ -5,6 +5,10 @@
 	background-attachment: scroll;
 	background-size: cover;
 }*/
+div {
+	width: 960px
+	height: 100px;
+}
 #nav {
 	padding-left: 800px;
 	padding-bottom: 0px;
@@ -23,7 +27,7 @@ li {
 	display: inline;
 	padding-top: 30px;
 	padding-left: 50px;
-	padding: 0px;
+	padding-bottom: 0px;
 	/*text-align: right;*/
 }
 /*#first {
