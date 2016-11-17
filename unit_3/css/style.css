@@ -26,8 +26,9 @@ h1 {
 }
 li {
 	display: inline;
-	padding-top: 70px;
+	padding-top: 60px;
 	padding-left: 50px;
+	text-align: right;
 }
 hr {
 	padding: 0px
