@@ -13,7 +13,6 @@ h1 {
 }
 li.nav {
 	display: inline;
-	/*padding-top: 30px;*/
 	padding-left: 50px;
 	text-align: right;
 	vertical-align: top;
@@ -24,7 +23,7 @@ hr {
 
 .fit {
 	max-width: 200%;
-	max-height: 50%;
+	max-height: 25%;
 	display: inline-block;
 	padding: 0
 }
