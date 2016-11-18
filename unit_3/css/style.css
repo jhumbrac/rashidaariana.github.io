@@ -9,7 +9,7 @@ d/*iv #header {
 	width: 960px
 	height: 80px;
 }*/
-#nav {
+ul#nav {
 	padding-left: 800px;
 	text-align: right;
 	display: inline-block;
@@ -22,7 +22,7 @@ h1 {
 	display: inline-block;
 }
 li {
-	display: inline-block;
+	display: inline;
 	padding-top: 50px;
 	padding-left: 50px;
 	text-align: right;
@@ -44,6 +44,9 @@ h2 span {
 	background: rgb(0, 0, 0);
 	background: rgba(0, 0, 0, 0.7);
 	padding: 10px
+}
+h2 span.spacer {
+	padding: 0 5px;
 }
 p { 
 	color: #808080; 
