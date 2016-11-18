@@ -10,7 +10,7 @@ h1 {
 	vertical-align: top;
 	display: inline-block;
 }
-li {
+li.nav {
 	display: inline;
 	/*padding-top: 50px;*/
 	padding-left: 50px;
