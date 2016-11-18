@@ -41,8 +41,8 @@ h2 {
 }
 h2 span {
 	color: white;
-	background: rgb(0, 0, 0);
-	background: rgba(0, 0, 0, 0.7);
+	background: rgb(177, 168, 197);
+	background: rgba(177, 168, 197, 0.5);
 	padding: 10px
 }
 h2 span.spacer {
