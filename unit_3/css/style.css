@@ -13,7 +13,6 @@ ul#nav {
 	padding-left: 800px;
 	text-align: right;
 	display: inline-block;
-	vertical-align: top;
 }
 h1 {
 	color: #5D92B1;
@@ -23,7 +22,7 @@ h1 {
 }
 li {
 	display: inline;
-	padding-top: 50px;
+	/*padding-top: 50px;*/
 	padding-left: 50px;
 	text-align: right;
 	vertical-align: top;
