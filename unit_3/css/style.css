@@ -48,10 +48,10 @@ h2 {
 	text-align: left;
 }
 h2 span {
-	color: white;
+	color: black;
 	background: rgb(177, 168, 197);
 	background: rgba(177, 168, 197, 0.5);
-	padding: 10px
+	padding-bottom:10px
 }
 h2 span.spacer {
 	padding: 0 5px;
