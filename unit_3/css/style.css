@@ -1,6 +1,7 @@
 
 #nav {
 	padding-left: 800px;
+	padding-top: 30px;
 	text-align: right;
 	display: inline-block;
 }
@@ -12,7 +13,7 @@ h1 {
 }
 li.nav {
 	display: inline;
-	padding-top: 30px;
+	/*padding-top: 30px;*/
 	padding-left: 50px;
 	text-align: right;
 	vertical-align: top;
