@@ -55,7 +55,7 @@ p {
 #survey {
 	font-size: 20px;
 }
-#about, #actual-survey, #clientele, #contact {
+.header {
 	font-size: 20px
 }
 
