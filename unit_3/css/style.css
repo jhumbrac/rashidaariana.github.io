@@ -50,12 +50,12 @@ p {
 	color: #808080; 
 	font-weight: normal;
 	text-align: left;
-	font-size: 12px;
+	font-size: 16px;
 }
 #survey {
 	font-size: 20px;
 }
-#about, #survey, #cleintele, #contact {
+#about#survey#cleintele#contact {
 	font-size: 20px
 }
 
