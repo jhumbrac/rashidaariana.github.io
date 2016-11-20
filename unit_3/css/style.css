@@ -69,12 +69,17 @@ ul.bulletless {
 	vertical-align: center;
 	/*padding-left: 500px;*/
 }
+#Baltimore {
+	display: inline-block;
+}
 #San-Diego {
 	padding-left: 50px;
+	display: inline-block;
 }
 
 #Miami {
 	padding-left: 50px;
+	display: inline-block;
 }
 
 
