@@ -63,32 +63,12 @@ ul.bulletless {
 	margin: 0;
 	padding: 0;
 }
-#Baltimore {
-	text-align: left;
-}
-#San Diego {
+#contact {
+	display: inline-block;
 	text-align: center;
-}
-#Miami {
-	text-align: right;
 }
 
-/*.image {
-	position: relative;
-	width: 50%;
-}*/
-/*ul { 
-	list-style-type: none;
-}
-.Baltimore {
-	text-align: left;
-}
-.San Diego {
-	text-align: center;
-}
-.Miami {
-	text-align: right;
-}*/
+
 
 
 
