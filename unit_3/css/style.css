@@ -61,7 +61,7 @@ p {
 ul.bulletless {
 	list-style: none;
 	margin: 0;
-	padding: 0;
+	/*padding: 0;*/
 }
 .contact {
 	display: inline-block;
