@@ -63,11 +63,18 @@ ul.bulletless {
 	margin: 0;
 	padding: 0;
 }
-#contact {
+.contact {
 	display: inline-block;
 	text-align: left;
 	vertical-align: center;
 	/*padding-left: 500px;*/
+}
+#San-Diego {
+	padding-left: 50px;
+}
+
+#Miami {
+	padding-left: 50px;
 }
 
 
