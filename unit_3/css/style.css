@@ -63,7 +63,9 @@ ul.bulletless {
 	margin: 0;
 	padding: 0;
 }
-
+.steps {
+	position: center;
+}
 
 .contact {
 	display: inline-block;
