@@ -1,4 +1,6 @@
-
+h1, h2, p {
+	font-family: "book-antiqua", serif;
+}
 #nav {
 	padding-left: 500px;
 	padding-top: 20px;
