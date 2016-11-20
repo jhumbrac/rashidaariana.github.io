@@ -63,6 +63,15 @@ ul.bulletless {
 	margin: 0;
 	padding: 0;
 }
+#Baltimore {
+	text-align: left;
+}
+#San Diego {
+	text-align: center;
+}
+#Miami {
+	text-align: right;
+}
 
 /*.image {
 	position: relative;
