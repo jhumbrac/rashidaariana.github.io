@@ -65,7 +65,8 @@ ul.bulletless {
 }
 #contact {
 	display: inline-block;
-	text-align: center;
+	text-align: left;
+	vertical-align: center;
 }
 
 
